@@ -1,5 +1,5 @@
 # Thank you
-Thank you for checking out this repo ❤️
+Thank you for checking out this repo ❤️. This is a project from [roadmap.sh](https://roadmap.sh/projects/task-tracker)
 
 💻 Run the file with with `python main.py --help` to start
 
